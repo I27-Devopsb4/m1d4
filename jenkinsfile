@@ -1,0 +1,4 @@
+@Library("com.divya.slb@main") _
+firstPipeline(
+appName = 'currency'
+)
