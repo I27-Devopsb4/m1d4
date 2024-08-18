@@ -1,4 +1,4 @@
-@Library('com.divya.slb@main') _
+@Library('com.divya.slb') _
 firstPipeline(
 appName = 'currency'
 )
